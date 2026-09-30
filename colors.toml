@@ -1,0 +1,35 @@
+# NERV: warning orange on black, emergency red, MAGI green, Unit-01 purple
+mode = "dark"
+
+accent = "#ff6a00"
+selection = "#3d1c06"
+muted = "#7a3f14"
+
+background = "#060504"
+dark_background = "#030202"
+darker_background = "#000000"
+lighter_background = "#1a0f07"
+
+foreground = "#ff9d45"
+dark_foreground = "#8f4e1c"
+light_foreground = "#ffbb7a"
+bright_foreground = "#ffe2c2"
+
+hyprland_active_border = "rgba(ff6a00ee) rgba(ff1f1fee) 45deg"
+hyprland_inactive_border = "rgba(3d1c06aa)"
+
+red = "#ff2a2a"
+yellow = "#ffcc00"
+orange = "#ff7a1a"
+green = "#3dff7a"
+cyan = "#2fe6e6"
+blue = "#5a86ff"
+magenta = "#a66bff"
+brown = "#6b3510"
+
+bright_red = "#ff6b6b"
+bright_yellow = "#ffe566"
+bright_green = "#a3ffbf"
+bright_cyan = "#a8f7f7"
+bright_blue = "#a8c0ff"
+bright_magenta = "#d2b3ff"
